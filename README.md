@@ -1,8 +1,7 @@
-# Сверлильный станок для печатных плат
-В репозиторий входят:
-+ прошивка для Arduino Nano (ATmega328P);
-+ необходимые для работы скетча самописные библиотеки (таймеры, опрос кнопок, управление шаговым двигателем и двигателем постоянного тока);
-+ алгоритм работы скетча;
-+ принципиальная схема.
+# Circuit board driller
++ Arduino Nano sketch (ATmega328P);
++ nessesary libraries for timers, buttons and interrupter, controlling stepper and DC motor, made by me;
++ operation algorithm;
++ schematic circuit diagram.
 
-Написано, собрано, протестировано и прокомментировано Ненюк Вероникой Владиславовной. 
+Written, assembled, tested and commented by Nenyuk Veronika Vladislavovna. 
