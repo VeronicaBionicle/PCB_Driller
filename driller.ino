@@ -3,8 +3,8 @@
 #include "step_motor_control.h"
 /*Changeble*/
 #define TURNS_TO_GO_FROM_HOME 5
-#define TURNS_TO_POINT 43.5
-#define TURNS_TO_DRILL_PCB 2.25
+#define TURNS_TO_POINT 44.5
+#define TURNS_TO_DRILL_PCB 2.6
 
 #define BOOST 0.35 // BOOST * SPEED -> SPEED x 1/BOOST
 #define RETURN_BOOST 2*BOOST // return slower for accuracy
